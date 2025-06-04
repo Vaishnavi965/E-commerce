@@ -1,0 +1,31 @@
+
+[
+  {
+    "id": "tshirt-men",
+    "name": "Classic Men T-Shirt",
+    "price": 499,
+    "category": "men",
+    "image": "https://i.imgur.com/qkdpN.jpg"
+  },
+  {
+    "id": "dress-women",
+    "name": "Elegant Women Dress",
+    "price": 1299,
+    "category": "women",
+    "image": "https://i.imgur.com/5KxN.jpg"
+  },
+  {
+    "id": "headphones",
+    "name": "Bluetooth Headphones",
+    "price": 1999,
+    "category": "electronics",
+    "image": "https://i.imgur.com/34HZt.jpg"
+  },
+  {
+    "id": "shirt-men",
+    "name": "Casual Men Shirt",
+    "price": 799,
+    "category": "men",
+    "image": "https://i.imgur.com/yTHFk.jpg"
+  }
+]
